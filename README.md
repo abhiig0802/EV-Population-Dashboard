@@ -4,7 +4,7 @@ A Tableau dashboard analyzing the population of registered Battery Electric Vehi
 
 ## Overview
 
-Electric vehicle adoption has grown rapidly over the past few years, and this project explores that growth through the lens of official vehicle registration data. Using a dataset of 130,443 registered EVs, this dashboard examines who is buying electric vehicles, which manufacturers and models dominate the market, how adoption has trended over time, and how far these vehicles can typically travel on a single charge. The result is a clear, visual story of EV adoption in Washington State  from Tesla's overwhelming market lead, to the sharp rise in registrations over the last three years, to the balance between fully-electric and plug-in hybrid ownership.
+Electric vehicle adoption has grown rapidly over the past few years, and this project explores that growth through the lens of official vehicle registration data. Using a dataset of 130,443 registered EVs, this dashboard examines who is buying electric vehicles, which manufacturers and models dominate the market, how adoption has trended over time, and how far these vehicles can typically travel on a single charge. The result is a clear, visual story of EV adoption in Washington State  from Tesla's overwhelming market lead, to the sharp rise in registrations in the most recent model years covered by the data (2021–2023), to the balance between fully-electric and plug-in hybrid ownership.
 
 ## Data Source
 
